@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T22:00:24.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="Il1a3q2l_jJ9q47Ii_AM" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T22:38:33.770Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="9WEr0tXtxab_XxOKc2FQ" version="20.0.4" type="github">
   <diagram id="WC_vAVpubCEw6jQJzw-5" name="Page-1">
-    <mxGraphModel dx="866" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
           <mxGeometry x="210" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iWGYxbqnK11PC3dcelOQ-16" value="提案通過通知信" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="提案團隊&lt;br&gt;輸入受款帳戶資訊" link="https://hackmd.io/@98IZ4O3dSeiDSnUI428Hfw/H1voKVYY5" linkTarget="_blank" id="iWGYxbqnK11PC3dcelOQ-18">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4;fontColor=#3333FF;" parent="1" vertex="1">
