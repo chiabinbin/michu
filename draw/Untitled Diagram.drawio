@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T11:25:51.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" version="20.0.4" etag="3eBX-tvx3du1mhaSYKk-" type="github"><diagram id="WC_vAVpubCEw6jQJzw-5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-30T21:10:02.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="5sTlaDHTfOFiAT2tiVjs" version="20.0.4" type="github">
+  <diagram id="WC_vAVpubCEw6jQJzw-5" name="Page-1">
+    <mxGraphModel dx="866" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWGYxbqnK11PC3dcelOQ-3" target="iWGYxbqnK11PC3dcelOQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="同意服務條款" link="https://www.zeczec.com/docs/terms_of_service" linkTarget="_blank" id="iWGYxbqnK11PC3dcelOQ-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWGYxbqnK11PC3dcelOQ-4" target="iWGYxbqnK11PC3dcelOQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-4" value="完成會員註冊" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iWGYxbqnK11PC3dcelOQ-5" target="iWGYxbqnK11PC3dcelOQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-5" value="信箱驗證" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-6" value="填寫真實姓名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-7" value="選擇提案類型：&lt;br&gt;群眾集資 / 預購 / 訂閱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-12" value="送出提案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-13" value="提案審核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-14" value="初審通過" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-15" value="審核未通過" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-16" value="提案通過通知信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
