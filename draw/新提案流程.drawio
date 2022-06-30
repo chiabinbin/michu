@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T23:03:47.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="YuabgqddiHvrXxVuUqVG" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T23:04:37.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="qJWix3UHkDAy5BeYhgoy" version="20.0.4" type="github">
   <diagram id="WC_vAVpubCEw6jQJzw-5" name="Page-1">
     <mxGraphModel dx="1795" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="身份審核通過" linkTarget="_blank" id="wNFRfesZy_4Ic9vwIzbN-8">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
             <mxGeometry x="360" y="1270" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
