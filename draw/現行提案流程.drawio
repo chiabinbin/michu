@@ -1,0 +1,158 @@
+<mxfile host="app.diagrams.net" modified="2022-06-30T21:32:26.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="hT7g113KtsfoBMydYaR1" version="20.0.4" type="github">
+  <diagram id="WC_vAVpubCEw6jQJzw-5" name="Page-1">
+    <mxGraphModel dx="866" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iWGYxbqnK11PC3dcelOQ-3" target="iWGYxbqnK11PC3dcelOQ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="同意服務條款" link="https://www.zeczec.com/docs/terms_of_service" linkTarget="_blank" id="iWGYxbqnK11PC3dcelOQ-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4;fontColor=#3333FF;" parent="1" vertex="1">
+            <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iWGYxbqnK11PC3dcelOQ-4" target="iWGYxbqnK11PC3dcelOQ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-4" value="完成會員註冊" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iWGYxbqnK11PC3dcelOQ-5" target="iWGYxbqnK11PC3dcelOQ-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="信箱驗證" link="https://hackmd.io/@98IZ4O3dSeiDSnUI428Hfw/H1Mh3XtF9" linkTarget="_blank" id="iWGYxbqnK11PC3dcelOQ-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4;fontColor=#3333FF;" parent="1" vertex="1">
+            <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iWGYxbqnK11PC3dcelOQ-6" target="iWGYxbqnK11PC3dcelOQ-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="填寫真實姓名" link="https://hackmd.io/@98IZ4O3dSeiDSnUI428Hfw/ryBWNWYY9" linkTarget="_blank" id="iWGYxbqnK11PC3dcelOQ-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4;fontColor=#3333FF;" parent="1" vertex="1">
+            <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iWGYxbqnK11PC3dcelOQ-7" target="iWGYxbqnK11PC3dcelOQ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-7" value="選擇提案類型：&lt;br&gt;群眾集資 / 預購 / 訂閱" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iWGYxbqnK11PC3dcelOQ-12" target="iWGYxbqnK11PC3dcelOQ-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="送出提案" link="https://hackmd.io/@98IZ4O3dSeiDSnUI428Hfw/rJ4XmEtYc" linkTarget="_blank" id="iWGYxbqnK11PC3dcelOQ-12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4;fontColor=#3333FF;" parent="1" vertex="1">
+            <mxGeometry x="360" y="640" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iWGYxbqnK11PC3dcelOQ-13" target="iWGYxbqnK11PC3dcelOQ-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iWGYxbqnK11PC3dcelOQ-13" target="iWGYxbqnK11PC3dcelOQ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-13" value="提案審核" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iWGYxbqnK11PC3dcelOQ-14" target="iWGYxbqnK11PC3dcelOQ-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-14" value="審核通過" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iWGYxbqnK11PC3dcelOQ-15" target="iWGYxbqnK11PC3dcelOQ-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-15" value="審核未通過" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-16" value="提案通過通知信" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="提案團隊&lt;br&gt;輸入受款帳戶資訊" link="https://hackmd.io/@98IZ4O3dSeiDSnUI428Hfw/H1voKVYY5" linkTarget="_blank" id="iWGYxbqnK11PC3dcelOQ-18">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4;fontColor=#3333FF;" parent="1" vertex="1">
+            <mxGeometry x="480" y="1020" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-19" value="提案團隊&lt;br&gt;增減調整專案內容" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="iWGYxbqnK11PC3dcelOQ-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1000" as="sourcePoint" />
+            <mxPoint x="430" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-21" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1000" as="sourcePoint" />
+            <mxPoint x="540" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-22" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1000" as="sourcePoint" />
+            <mxPoint x="300" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="iWGYxbqnK11PC3dcelOQ-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1000" as="sourcePoint" />
+            <mxPoint x="460" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="iWGYxbqnK11PC3dcelOQ-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1000" as="sourcePoint" />
+            <mxPoint x="460" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-26" value="專案上線" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffffff;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-28" value="提案未過通知信" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffffff;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-29" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1110" as="sourcePoint" />
+            <mxPoint x="300" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-30" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1110" as="sourcePoint" />
+            <mxPoint x="420" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iWGYxbqnK11PC3dcelOQ-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="1060" as="sourcePoint" />
+            <mxPoint x="300" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iWGYxbqnK11PC3dcelOQ-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539" y="1081" as="sourcePoint" />
+            <mxPoint x="540" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWGYxbqnK11PC3dcelOQ-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="iWGYxbqnK11PC3dcelOQ-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1110" as="sourcePoint" />
+            <mxPoint x="460" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZI2vt0tMXgu7TGkp_aTG-1" value="&lt;label style=&quot;border: 0px solid rgb(229, 231, 235); box-sizing: border-box; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; display: block; margin-bottom: 5px; color: rgb(63, 63, 63); font-family: Rubik, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, 微軟正黑體, &amp;quot;Microsoft JhengHei&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot; class=&quot;block&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;input style=&quot;border-width: 0px; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; color: rgb(118, 118, 118); font-family: Rubik, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, 微軟正黑體, &amp;quot;Microsoft JhengHei&amp;quot;, sans-serif; font-size: 0.875rem; font-weight: inherit; line-height: 1.6em; margin: 0px 0.25rem 0px 0px; padding: 0px; border-radius: 0.125rem; vertical-align: middle;&quot; id=&quot;project_terms_accepted&quot; name=&quot;project[terms_accepted]&quot; value=&quot;1&quot; type=&quot;checkbox&quot; required=&quot;required&quot;&gt;&amp;nbsp;同意提案契約書&lt;/label&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="580" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZI2vt0tMXgu7TGkp_aTG-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;input style=&quot;border-width: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; color: rgb(118, 118, 118); font-family: Rubik, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, 微軟正黑體, &amp;quot;Microsoft JhengHei&amp;quot;, sans-serif; font-weight: inherit; line-height: 1.6em; margin: 0px 0.25rem 0px 0px; padding: 0px; border-radius: 0.125rem; vertical-align: middle;&quot; id=&quot;project_terms_acknowledged&quot; name=&quot;project[terms_acknowledged]&quot; value=&quot;1&quot; type=&quot;checkbox&quot; required=&quot;required&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Rubik, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, 微軟正黑體, &amp;quot;Microsoft JhengHei&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Rubik, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, 微軟正黑體, &amp;quot;Microsoft JhengHei&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;提案人 (及法定代理人) 均已充分了解且同意合作條款之權利義務&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="600" width="410" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
