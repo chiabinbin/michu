@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T22:37:52.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="aqBT4PQ1cPrG26FezfXJ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T23:03:47.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="YuabgqddiHvrXxVuUqVG" version="20.0.4" type="github">
   <diagram id="WC_vAVpubCEw6jQJzw-5" name="Page-1">
-    <mxGraphModel dx="626" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1795" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,9 +222,11 @@
         <mxCell id="wNFRfesZy_4Ic9vwIzbN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#3333FF;" edge="1" parent="1" source="wNFRfesZy_4Ic9vwIzbN-3" target="wNFRfesZy_4Ic9vwIzbN-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wNFRfesZy_4Ic9vwIzbN-3" value="身份審核" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1130" width="80" height="80" as="geometry" />
-        </mxCell>
+        <UserObject label="身份審核" link="https://hackmd.io/@98IZ4O3dSeiDSnUI428Hfw/S1yDLooc9" linkTarget="_blank" id="wNFRfesZy_4Ic9vwIzbN-3">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=4;fontColor=#3333FF;" vertex="1" parent="1">
+            <mxGeometry x="380" y="1130" width="80" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="wNFRfesZy_4Ic9vwIzbN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#3333FF;" edge="1" parent="1" source="wNFRfesZy_4Ic9vwIzbN-8" target="iWGYxbqnK11PC3dcelOQ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -251,6 +253,16 @@
         <mxCell id="wNFRfesZy_4Ic9vwIzbN-18" value="12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry y="1405" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wNFRfesZy_4Ic9vwIzbN-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="wNFRfesZy_4Ic9vwIzbN-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="提案審核通過信" linkTarget="_blank" link="https://hackmd.io/@98IZ4O3dSeiDSnUI428Hfw/rkB19iiq5" id="wNFRfesZy_4Ic9vwIzbN-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#3333FF;fontStyle=4" vertex="1" parent="1">
+            <mxGeometry x="520" y="1270" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
