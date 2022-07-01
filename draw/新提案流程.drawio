@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T02:46:22.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="R1Ytmqp-Ga-nOyBJL5pv" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T09:29:40.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="eMqI-r-F1qY-BTZZ1Ghb" version="20.0.4" type="github">
   <diagram id="WC_vAVpubCEw6jQJzw-5" name="Page-1">
     <mxGraphModel dx="1155" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="提案團隊&lt;br&gt;增減調整專案內容" link="https://hackmd.io/@98IZ4O3dSeiDSnUI428Hfw/rJpCRCocc" linkTarget="_blank" id="iWGYxbqnK11PC3dcelOQ-19">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=4;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#3333FF;" parent="1" vertex="1">
             <mxGeometry x="120" y="1020" width="120" height="310" as="geometry" />
           </mxCell>
         </UserObject>
@@ -274,6 +274,9 @@
         </UserObject>
         <mxCell id="wNFRfesZy_4Ic9vwIzbN-23" value="若專案有 PM &lt;br&gt;審核通過信副至 PM" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#000000;rounded=1;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="1390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNFRfesZy_4Ic9vwIzbN-25" value="13" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry y="1525" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
